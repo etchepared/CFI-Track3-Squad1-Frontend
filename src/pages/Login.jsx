@@ -1,9 +1,3 @@
-function Login() {
-  return (
-    <>
-      <div>Hola Alkemy!</div>
-    </>
-  );
-}
-
-export default Login;
+export const Login = () => {
+  return <div>Login</div>;
+};
